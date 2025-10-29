@@ -28,35 +28,20 @@ All versions are available in the [`releases/`](releases/) directory.
 
 ### Installation Video
 
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2">
-    <span>Unpack and add to Chrome</span>
-  </summary>
-  <video src="content/Unpack%20and%20add%20to%20Chrome.mp4" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
-  </video>
-</details>
+<video src="https://github.com/user-attachments/assets/8263a0f1-0047-4151-a495-209b002d33ec" controls width="700">
+</video>
 
 ### Usage Videos
 
 **Capture and Fill - CZ:**
 
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2">
-    <span>Capture and Fill - CZ</span>
-  </summary>
-  <video src="content/Capture%20and%20fill%20-%20CZ.mp4" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
-  </video>
-</details>
+<video src="https://github.com/user-attachments/assets/6fe2112d-76a1-4c98-bd1f-c29ad0afa3d0" controls width="700">
+</video>
 
 **Capture and Fill - MX:**
 
-<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2">
-    <span>Capture and Fill - MX</span>
-  </summary>
-  <video src="content/Capture%20and%20fill%20-%20MX.mp4" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
-  </video>
-</details>
+<video src="https://github.com/user-attachments/assets/e63b0c3e-d69b-4d7d-9d30-d74c9c7eee6d" controls width="700">
+</video>
 
 ## Updating
 
