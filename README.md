@@ -11,19 +11,16 @@ This repository contains release artifacts for Form Flow Maestro Chrome Extensio
 
 ## Installation
 
-1. Go to `releases/` directory
-2. Download the latest version ZIP file
-3. Unzip the file
-4. Open Chrome → `chrome://extensions/`
-5. Enable "Developer mode"
-6. Click "Load unpacked"
-7. Select the unzipped folder
+1. Download the latest release ZIP file below
+2. Unzip the file
+3. Open Chrome → `chrome://extensions/`
+4. Enable "Developer mode"
+5. Click "Load unpacked"
+6. Select the unzipped folder
 
 ## Latest Release
 
-**Current Version: [v1.0.9](releases/1.0.9/form-flow-maestro-1.0.9.zip)**
-
-📦 [Download Latest Release](releases/1.0.9/form-flow-maestro-1.0.9.zip)
+📦 **[v1.1.0](releases/1.1.0/form-flow-maestro-1.1.0.zip) - Download Latest Release**
 
 All versions are available in the [`releases/`](releases/) directory.
 
