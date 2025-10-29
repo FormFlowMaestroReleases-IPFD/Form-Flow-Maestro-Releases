@@ -28,26 +28,35 @@ All versions are available in the [`releases/`](releases/) directory.
 
 ### Installation Video
 
-<video src="content/Unpack and add to Chrome.mp4" controls width="700">
-  Your browser does not support the video tag.
-  <a href="content/Unpack%20and%20add%20to%20Chrome.mp4">Download video: Unpack and add to Chrome</a>
-</video>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <span>Unpack and add to Chrome</span>
+  </summary>
+  <video src="content/Unpack%20and%20add%20to%20Chrome.mp4" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+  </video>
+</details>
 
 ### Usage Videos
 
 **Capture and Fill - CZ:**
 
-<video src="content/Capture and fill - CZ.mp4" controls width="700">
-  Your browser does not support the video tag.
-  <a href="content/Capture%20and%20fill%20-%20CZ.mp4">Download video: Capture and fill - CZ</a>
-</video>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <span>Capture and Fill - CZ</span>
+  </summary>
+  <video src="content/Capture%20and%20fill%20-%20CZ.mp4" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+  </video>
+</details>
 
 **Capture and Fill - MX:**
 
-<video src="content/Capture and fill - MX.mp4" controls width="700">
-  Your browser does not support the video tag.
-  <a href="content/Capture%20and%20fill%20-%20MX.mp4">Download video: Capture and fill - MX</a>
-</video>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <span>Capture and Fill - MX</span>
+  </summary>
+  <video src="content/Capture%20and%20fill%20-%20MX.mp4" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
+  </video>
+</details>
 
 ## Updating
 
