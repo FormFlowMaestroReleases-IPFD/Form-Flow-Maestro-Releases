@@ -28,19 +28,19 @@ All versions are available in the [`releases/`](releases/) directory.
 
 ### Installation Video
 
-<video src="https://github.com/user-attachments/assets/8263a0f1-0047-4151-a495-209b002d33ec" controls width="700">
+<video src="https://github.com/user-attachments/assets/312cee8d-1767-46fc-bf02-9fb0c2f10876" controls width="700">
 </video>
 
 ### Usage Videos
 
 **Capture and Fill - CZ:**
 
-<video src="https://github.com/user-attachments/assets/6fe2112d-76a1-4c98-bd1f-c29ad0afa3d0" controls width="700">
+<video src="https://github.com/user-attachments/assets/e43ff1d1-0c30-4150-bb37-cbeafede3537" controls width="700">
 </video>
 
 **Capture and Fill - MX:**
 
-<video src="https://github.com/user-attachments/assets/e63b0c3e-d69b-4d7d-9d30-d74c9c7eee6d" controls width="700">
+<video src="https://github.com/user-attachments/assets/240862dc-6dba-414a-8c5b-faa6b04552ff" controls width="700">
 </video>
 
 ## Updating
