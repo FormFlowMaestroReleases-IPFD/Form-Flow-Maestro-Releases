@@ -20,7 +20,7 @@ This repository contains release artifacts for Form Flow Maestro Chrome Extensio
 
 ## Latest Release
 
-📦 **[v1.1.0](releases/1.1.0/form-flow-maestro-1.1.0.zip) - Download Latest Release**
+📦 **[v1.1.1](releases/1.1.1/form-flow-maestro-1.1.1.zip) - Download Latest Release**
 
 All versions are available in the [`releases/`](releases/) directory.
 
@@ -28,31 +28,19 @@ All versions are available in the [`releases/`](releases/) directory.
 
 ### Installation Video
 
-<a href="https://github.com/user-attachments/assets/312cee8d-1767-46fc-bf02-9fb0c2f10876">
-  <img src="https://github.com/user-attachments/assets/195e296c-c08e-465c-b1e6-d5ae83d1fa67" alt="Unpack and add to Chrome" width="700">
-</a>
-
-<video src="https://github.com/user-attachments/assets/312cee8d-1767-46fc-bf02-9fb0c2f10876" controls width="700">
+<video src="https://github.com/user-attachments/assets/240862dc-6dba-414a-8c5b-faa6b04552ff" poster="https://github.com/user-attachments/assets/12895375-ef7d-4fc7-81c9-d8ec19d1f086" controls width="700">
 </video>
 
 ### Usage Videos
 
 **Capture and Fill - CZ:**
 
-<a href="https://github.com/user-attachments/assets/e43ff1d1-0c30-4150-bb37-cbeafede3537">
-  <img src="https://github.com/user-attachments/assets/f289d303-c839-4954-9940-0174b950a5b8" alt="Capture and fill - CZ" width="700">
-</a>
-
-<video src="https://github.com/user-attachments/assets/e43ff1d1-0c30-4150-bb37-cbeafede3537" controls width="700">
+<video src="https://github.com/user-attachments/assets/312cee8d-1767-46fc-bf02-9fb0c2f10876" poster="https://github.com/user-attachments/assets/195e296c-c08e-465c-b1e6-d5ae83d1fa67" controls width="700">
 </video>
 
 **Capture and Fill - MX:**
 
-<a href="https://github.com/user-attachments/assets/240862dc-6dba-414a-8c5b-faa6b04552ff">
-  <img src="https://github.com/user-attachments/assets/12895375-ef7d-4fc7-81c9-d8ec19d1f086" alt="Capture and fill - MX" width="700">
-</a>
-
-<video src="https://github.com/user-attachments/assets/240862dc-6dba-414a-8c5b-faa6b04552ff" controls width="700">
+<video src="https://github.com/user-attachments/assets/e43ff1d1-0c30-4150-bb37-cbeafede3537" poster="https://github.com/user-attachments/assets/f289d303-c839-4954-9940-0174b950a5b8" controls width="700">
 </video>
 
 ## Updating
